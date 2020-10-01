@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Zhijia Zhao | Umar Farooq</title>
+    <link>http://ufarooq.github.io/authors/zhijia-zhao/</link>
+      <atom:link href="http://ufarooq.github.io/authors/zhijia-zhao/index.xml" rel="self" type="application/rss+xml" />
+    <description>Zhijia Zhao</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2016-2020 Umar Farooq </copyright><lastBuildDate>Wed, 30 Sep 2020 15:58:20 -0700</lastBuildDate>
+    <image>
+      <url>http://ufarooq.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Zhijia Zhao</title>
+      <link>http://ufarooq.github.io/authors/zhijia-zhao/</link>
+    </image>
+    
+    <item>
+      <title>LiveDroid: Identifying and Preserving Mobile App State in Volatile Runtime Environments</title>
+      <link>http://ufarooq.github.io/publication/oopsla20/</link>
+      <pubDate>Wed, 30 Sep 2020 15:58:20 -0700</pubDate>
+      <guid>http://ufarooq.github.io/publication/oopsla20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RuntimeDroid: Restarting-Free Runtime Change Handling for Android Apps</title>
+      <link>http://ufarooq.github.io/publication/getmobile/</link>
+      <pubDate>Sat, 01 Jun 2019 16:07:09 -0700</pubDate>
+      <guid>http://ufarooq.github.io/publication/getmobile/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scalable Processing of Contemporary Semi-Structured Data on Commodity Parallel Processors - A Compilation-based Approach</title>
+      <link>http://ufarooq.github.io/publication/asplos19/</link>
+      <pubDate>Mon, 01 Apr 2019 15:58:20 -0700</pubDate>
+      <guid>http://ufarooq.github.io/publication/asplos19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RuntimeDroid: Restarting-Free Runtime Change Handling for Android Apps</title>
+      <link>http://ufarooq.github.io/publication/mobisys18/</link>
+      <pubDate>Fri, 01 Jun 2018 15:31:18 -0700</pubDate>
+      <guid>http://ufarooq.github.io/publication/mobisys18/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

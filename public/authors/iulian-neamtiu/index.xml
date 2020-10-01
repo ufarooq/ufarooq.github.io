@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Iulian Neamtiu | Umar Farooq</title>
+    <link>http://ufarooq.github.io/authors/iulian-neamtiu/</link>
+      <atom:link href="http://ufarooq.github.io/authors/iulian-neamtiu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Iulian Neamtiu</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2016-2020 Umar Farooq </copyright><lastBuildDate>Wed, 30 Sep 2020 15:58:20 -0700</lastBuildDate>
+    <image>
+      <url>http://ufarooq.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Iulian Neamtiu</title>
+      <link>http://ufarooq.github.io/authors/iulian-neamtiu/</link>
+    </image>
+    
+    <item>
+      <title>LiveDroid: Identifying and Preserving Mobile App State in Volatile Runtime Environments</title>
+      <link>http://ufarooq.github.io/publication/oopsla20/</link>
+      <pubDate>Wed, 30 Sep 2020 15:58:20 -0700</pubDate>
+      <guid>http://ufarooq.github.io/publication/oopsla20/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
